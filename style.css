@@ -16,6 +16,7 @@
 
 div {
     margin-left: 20px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 nav {
@@ -36,3 +37,4 @@ nav ul li {
     float: left;
     margin:0 30px;
 }
+
