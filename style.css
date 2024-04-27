@@ -1,0 +1,38 @@
+.heading {
+    color: burlywood;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+* {
+    
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.subhead {
+    margin-top: 2px;
+}
+
+div {
+    margin-left: 20px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    
+}
+
+nav ul li {
+    float: left;
+    margin:0 30px;
+}
