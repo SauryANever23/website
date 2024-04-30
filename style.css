@@ -110,5 +110,11 @@ a {
     border-style: dashed;
     padding: 10px;
     border-color: rgb(8, 79, 82);
+    
+    
+    
 }
 
+* {
+    color: rgb(73, 19, 55);
+}
